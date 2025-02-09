@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+duckduckgo-search
+arxiv
+wikipedia
+numexpr
+langchain-experimental
+langchain-community
+
